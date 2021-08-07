@@ -623,6 +623,10 @@ textarea {
   margin-bottom: 24px;
 }
 
+.title-item{
+  margin-left: 20px;
+}
+
 @media (max-width: 767px) {
   .title {
     padding: 0 15px;
