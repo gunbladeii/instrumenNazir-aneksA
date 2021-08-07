@@ -87,6 +87,16 @@
   margin-top: 11px;
 }
 
+.name-title {
+  font-size: 18px;
+  text-align: center;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  margin-bottom: 12px;
+  border-bottom: 2px solid black;
+}
+
 .form-row .value {
   width: -webkit-calc(100% - 188px);
   width: -moz-calc(100% - 188px);
@@ -620,7 +630,9 @@ textarea {
   align-items:center;
   justify-content: center;
   color: #fff;
-  margin-bottom: 24px;
+  margin-bottom: 30px;
+  border-bottom: 3px dashed rgb(247, 242, 242);
+  border-top: 3px dashed rgb(247, 242, 242);
 }
 
 .title-item{
